@@ -6,7 +6,7 @@ This was one of my first substantial JavaScript projects and helped me become mu
 
 ## 🎮 Preview
 
-![Pac-Man JavaScript game](assets/pacman_preview.png)
+![Pac-Man JavaScript game](pacman_preview.png)
 
 ## 🎮 Features
 
