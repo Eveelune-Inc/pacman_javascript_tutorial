@@ -4,6 +4,10 @@ A Pac-Man clone I built while learning **JavaScript** and **HTML Canvas**, follo
 
 This was one of my first substantial JavaScript projects and helped me become much more comfortable reading, writing, debugging, and understanding game code.
 
+## 🎮 Preview
+
+![Pac-Man JavaScript game](assets/pacman_preview.png)
+
 ## 🎮 Features
 
 - Pac-Man movement
